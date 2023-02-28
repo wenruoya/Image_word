@@ -1,0 +1,7 @@
+﻿  源.cpp
+E:\Study\test\C\BB\wordPNG\wordPNG\源.cpp(10,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\test\C\BB\wordPNG\wordPNG\源.cpp(26,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+E:\Study\test\C\BB\wordPNG\wordPNG\源.cpp(26,10): message : 此参数用作缓冲区大小
+E:\Study\test\C\BB\wordPNG\wordPNG\源.cpp(30,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Study\test\C\BB\wordPNG\wordPNG\源.cpp(35,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  wordPNG.vcxproj -> E:\Study\test\C\BB\wordPNG\x64\Debug\wordPNG.exe
