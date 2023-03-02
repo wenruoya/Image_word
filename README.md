@@ -1,5 +1,5 @@
 # Image_word
-将图片像素转为文字，使用C编写
+将图片像素转为文字，使用C编写    (练习C语言)
 
 ![m1](https://user-images.githubusercontent.com/44966823/221748306-1f101042-6b5d-4308-8ecb-b55036376220.png)
 
